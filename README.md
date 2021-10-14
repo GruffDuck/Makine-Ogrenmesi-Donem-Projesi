@@ -1,1 +1,1 @@
-# Makine-renmesi-D-nem-Projesi
+# Makine-Ogrenmesi-Donem-Projesi
